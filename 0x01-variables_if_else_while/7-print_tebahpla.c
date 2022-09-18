@@ -1,16 +1,16 @@
 #include <stdio.h>
 
 /**
- * main - printing alphabets
+ * main - reverse alphabet
  * Return: 0 (success)
  */
 int main(void)
 {
 	char alpha;
 
-	alpha = 'a';
+	alpha = 'z';
 
-	while (alpha <= 'z')
+	while (alpha <= 'a')
 	{
 		putchar(alpha);
 		alpha++;
