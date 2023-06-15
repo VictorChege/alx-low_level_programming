@@ -1,4 +1,4 @@
-#include <holberton.h>
+#include <stdio.h>
 #include <stdlib.h>
 /**
  * _realloc - reallocates a memory block.
