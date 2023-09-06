@@ -1,2 +1,2 @@
-#/bin/bash!
-file.io
+#!/bin/bash
+file input output
